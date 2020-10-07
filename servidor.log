@@ -1,0 +1,8 @@
+2020-10-07 16:08:31,991 INFO main br.com.kotrix.capitulo_07_12.ExemploSalvandoCliente - Iniciando a aplicação
+2020-10-07 16:08:31,993 DEBUG main br.com.kotrix.capitulo_07_12.dao.ClienteDAO - Salvando um ClienteCliente [nome=João]
+2020-10-07 16:08:31,993 DEBUG main br.com.kotrix.capitulo_07_12.dao.ClienteDAO - Cliente salvo com sucesso
+2020-10-07 16:08:31,993 INFO main br.com.kotrix.capitulo_07_12.ExemploSalvandoCliente - Finalizando a aplicação
+2020-10-07 16:41:31,856 INFO main br.com.kotrix.capitulo_07_12.ExemploSalvandoCliente - Iniciando a aplicação
+2020-10-07 16:41:31,858 DEBUG main br.com.kotrix.capitulo_07_12.dao.ClienteDAO - Salvando o cliente: Cliente [nome=João]
+2020-10-07 16:41:31,858 DEBUG main br.com.kotrix.capitulo_07_12.dao.ClienteDAO - Cliente salvo com sucesso.
+2020-10-07 16:41:31,858 INFO main br.com.kotrix.capitulo_07_12.ExemploSalvandoCliente - Finalizando a aplicação
